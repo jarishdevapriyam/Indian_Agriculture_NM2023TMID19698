@@ -1,0 +1,95 @@
+Area in acres region-wise
+State
+All
+
+Statewise Agriculture Land
+
+Jammu and Kashmir
+Uttarakhand
+Rajasthan
+Madhya Pradesh
+
+Arunachal Pradesh
+Meghalaya
+
+Dadra and Nagar Haveli
+Goa
+Laddakh
+
+Andaman and Nicobar Islands
+
+© 2023 Mapbox © OpenStreetMap
+
+Area vs Production
+State
+Andhra Pradesh
+Bihar
+Gujarat
+Karnataka
+Madhya Pradesh
+Maharashtra
+Punjab
+Rajasthan
+Uttar Pradesh
+West Bengal
+
+Andhra Pradesh
+Bihar
+Gujarat
+Karnataka
+Madhya Pradesh
+Maharashtra
+Punjab
+Rajasthan
+Uttar Pradesh
+West Bengal
+
+238,925,335
+
+492,087,994
+162,040,200
+
+0M
+
+100M
+
+200M
+
+300M
+
+486,453,365
+
+400M
+Area
+
+500M
+
+600M
+
+700M
+
+0
+Zero Line
+
+26,076,218,605
+63,772,797,345
+1,878,564,918
+
+4,442,585,306
+0B
+
+10B
+
+20B
+
+30B
+
+40B
+
+Production
+
+50B
+
+60B
+
+
